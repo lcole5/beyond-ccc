@@ -1,16 +1,22 @@
 field,display_name,browse_link,external_link
-title,Title,
-creator,Creator,
-date,Date Created,
-description,Description,
-subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
-source,Source
-identifier,Source Identifier,,
+objectid,Object ID,
+identifier,Identifier,
+filename,File Name,
+title,Title,,
+author,Author,,
 type,Type,
 format,Format,
+language,Language,
+classname,Class Name,,
+instructorname,Instructor Name,,
+date,Date Created,
+termcreated,Term Created,
+subject,Subjects,,
+artiststatement,Artist's Statement,
+artistportfolio,Artist's Portfolio,,ture
+artistbio,Artist's Bio
+studying,Studying
+license,License,,true
 rights,Rights,
+rightsholder,Rights Holder,
 rightsstatement,Rights Statement,,true
-artiststatement, Artist's Statement,, 
