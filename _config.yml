@@ -25,16 +25,16 @@ title: Beyond Captions, Collages, and Codes
 tagline: a digital comic and cartoon exhibit
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "This exhibit highlights and celebrates the work being done by students in the comics and cartoon discipline at the University of Oregon and within the English Department."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Lauryn Cole
 
 ##########
 # COLLECTION SETTINGS
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: beyond-ccc_metadata_google-final - Sheet1.csv
+metadata: demo-metadata
 
 ##########
 # Site/Organization Branding 
