@@ -1,6 +1,6 @@
 field,display_name,browse_link,external_link
 objectid,Object ID,,
-identifier,Identifier,true,
+identifier,Identifier,,,
 filename,File Name,,
 title,Title,,
 author,Author,true,
