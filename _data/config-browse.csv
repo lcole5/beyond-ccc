@@ -1,5 +1,4 @@
 field,display_name,btn,hidden,sort_name
-identifier,Identifier,true,,Identifier
 datecreated,Date Created,true,,Date Created
 author,Author,true,,Author
 subject,Subjects,true,,Subjects
