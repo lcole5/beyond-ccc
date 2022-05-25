@@ -1,6 +1,6 @@
 field,display_name,btn,hidden,sort_name
-identifier,Identifier
-datecreated,Date Created,,,Date Created
-author,Author,,,
-subject,Subjects,,true
-classname,Class Name,,,
+identifier,Identifier,true,,Identifier
+datecreated,Date Created,true,,Date Created
+author,Author,true,,Author
+subject,Subjects,true,,Subjects
+classname,Class Name,true,,Class Name
