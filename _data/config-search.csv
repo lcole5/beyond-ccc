@@ -1,7 +1,7 @@
 field,index,display
+identifier,true,false
+author,true,true
+classname,true,true
 title,true,true
-date,true,true
-creator,true,false
-description,true,true
+datecreated,true,true
 subject,true,true
-location,true,false
