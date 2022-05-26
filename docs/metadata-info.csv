@@ -1,0 +1,36 @@
+Data Set Field Name:,CollectionBuilder Website Display Label:,Is data entry required for this field?,Is controlled vocabulary required for this field?,Does the field’s value need to be externally linked?,Does the field’s value need to be internally linked?,Field Definition and Instruction:,Example
+objectid,Object ID,Required,No,No,No,"This field is used by CollectionBuilder to connect an object’s file with the data in the CollectionBuilder spreadsheet. It must be included in the spreadsheet or else the object will not appear in CollectionBuilder. 
+It is the object’s filename without the file extension.",beyond-ccc_22467_kwilber_space-shock
+identifier,Identifier,Required,No,No,Yes,Unique identifier for the object. It is the object’s filename without the file extension. It acts like an inventory barcode for unique items. (Exactly the same as the object ID!),beyond-ccc_22467_kwilber_space-shock
+filename,Filename,Required,No,No,No,Add the full filename for the object you are cataloging.,beyond-ccc_22467_kwilber_space-shock.pdf
+author,Author,Recommended,No,No,Yes,"An entity primarily responsible for making the resource. This can be a person, group, business, or government agency. If there is more than 1 entity then separate them using a semi-colon then a hard space before adding additional entities.","Wilber, Kendall"
+classname,Class Name,Required,No,No,Yes,The name of the class this work was developed for.,ENG 385 Graphic Narratives and Cultural Theory
+instructorname,Instructor’s Name,Required,No,No,No,The name of the professor for the course the work was created for. Format this with their official title and their last name.,Dr. Kelp-Stebbins
+termcreated,Term Created,Recommended,Yes,No,No,The term the comic or cartoon was created. Choose the appropriate term from the Controlled Vocabulary.,Spring
+datecreated,Date Created,Required,No,,,"Dates should be entered using the following standards depending on what date information is available to you and associated with the object. Either of these three options are acceptable but use the one that best represents the object.
+YYY-MM-DD
+YYY
+MM-YYYY
+For an object to appear on a timeline then the date needs to be formatted as so:
+YYYY-MM-DD",2022-05-12
+title,Title,Required,No,No,No,A name given to the object. There should be no quotation marks until specified in the title of the object.,Space Shock
+type,Type,Required,Yes,No,No,The nature or genre of the resource. This will be “comic”,comic
+format,Format,Required,Yes,No,No,This represents the file format used to digitally represent the object. Add a term from the format controlled vocabulary list.,.pdf
+language,Language,Recommended,Yes,No,No,Identify the language or languages associated with the resource. Add a term from the language controlled vocabulary list. If there is more than 1 language then separate them using a semi-colon then a hard space before adding additional entities.,English
+subject,Subjects,Recommended,Yes,No,Yes,Add a term from the subject controlled vocabulary list. Select the most appropriate terms that categorize the object you are cataloging. Add a semicolon and a hard space between each term.,space; moving; culture shock; pencil; adjustment; family; home; travel
+artiststatement,Artist Statement,Recommended,No,No,No,"Add a description about the object you are cataloging. Describe the essential information about the object and capture salient points about it. 
+Write clearly and concisely. Use complete sentences.
+Use sentence cases and capitalize proper names.
+Avoid abbreviations.","The theme for my class was ""home,"" so I chose to base my comic on the experiences and challenges that come with moving somewhere new for the first time. Though the destination is a made-up planet in outer space, the responses that the protagonist has to this setting are based on the stages of intercultural adjustment, a psychological process. Culture shock and homesickness are daunting at first, but over time, we do find a new sense of home."
+studying,Studying,No,Yes,No,No,Add a term from the subject controlled vocabulary list. Select the most appropriate terms that categorize areas of study of the creator. Add a semicolon and a hard space between each term.,English; Digital Humanities;
+artistportfolio,Artist Portfolio,No,No,Yes,No,The URL linking to the artist’s portfolio or personal website.,http://website.com/
+artistbio,Artist Bio,No,No,No,No,"Add a description about the creator of the text. Describe the essential information about the person and capture salient points about them. 
+Write clearly and concisely. Use complete sentences.
+Use sentence cases and capitalize proper names.
+Avoid abbreviations.","I'm Kendall, an English major at the UO. I've always liked to doodle and think of stories, so I was excited to have the opportunity to do a comic for ENG 385. After school, I hope to work as a librarian or an archivist."
+license,Licensing,Required,Yes,Yes,No,Put the artist’s chosen Creative Commons license here. Choose the appropriate URL from the list of controlled vocabulary.,https://creativecommons.org/licenses/by/4.0/
+rights,Rights,Required,Yes,No,No,"Use the label for the Rights Statement and Creative Commons License that are assigned to an object.
+All items in this exhibit are “In-Copyright”",In-Copyright; Creative Commons Attribution-Non-Commercial 4.0 International (CC BY-NC 4.0)
+rightsholder,Rights Holder,Required,No,No,No,Add information about the entity who owns the copyright over the resourse. This will be the author of the digital object.,"Wilber, Kendall"
+rightsstement,Rights Statement,Required,Yes,Yes,No,"Rights statements are a standardized way to identify the copyright status of an object. Add only 1 rights statement from the controlled vocabulary list.
+The value added to a Rights Statement cell should be expressed as a URL.",http://rightsstatements.org/vocab/InC/1.0/
