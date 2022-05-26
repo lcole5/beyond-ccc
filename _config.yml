@@ -40,8 +40,8 @@ metadata: demo-metadata
 # Site/Organization Branding 
 #   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #
-organization-name: "The University of Oregon English Department"
-organization-link: https://english.uoregon.edu
+#organization-name: "The University of Oregon English Department"
+#organization-link: https://english.uoregon.edu
 # organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
 # organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
 
