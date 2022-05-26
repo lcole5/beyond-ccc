@@ -1,5 +1,16 @@
 field,display_name
 title,Title
-date,Date
-description,Description
+author,Author
+classname,Class Name
+instructorname,Instructor Name
+datecreated,Date Created
+termcreated,Term Created
 subject,Subjects
+artiststatement,Artist's Statement
+artistportfolio,Artist's Portfolio
+artistbio,Artist's Bio
+studying,Studying
+license,Lecense
+rights,Rights
+rightsholder,Rights Holder
+rightsstatement,Rights Statement
