@@ -1,6 +1,6 @@
 field,display_name,browse_link,external_link
 objectid,Object ID,,
-identifier,Identifier,,,
+identifier,Identifier,,
 filename,File Name,,
 title,Title,,
 author,Author,true,
@@ -13,7 +13,7 @@ datecreated,Date Created,,
 termcreated,Term Created,,
 subject,Subjects,true,
 artiststatement,Artist's Statement,,
-artistportfolio,Artist's Portfolio,,
+artistportfolio,Artist's Portfolio,,true
 artistbio,Artist's Bio,,
 studying,Studying,,
 license,License,,true
