@@ -1,1 +1,1 @@
-objectid,filename,youtubeid,vimeoid,title,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement
+objectid,identifier,filename,title,author,type,format,language,classname,instructorname,datecreated,termcreated,subject,artiststatement,artistportfolio,artistbio,studying,license,rights,rightsholder,rightsstatement
