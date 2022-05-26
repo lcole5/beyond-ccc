@@ -1,4 +1,7 @@
 field,display_name
+objectid,Object ID
+identifier,Identifier
+filename,Filename
 title,Title
 author,Author
 classname,Class Name
